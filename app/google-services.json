@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "442368062775",
+    "project_id": "ocrhere",
+    "storage_bucket": "ocrhere.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442368062775:android:91ba5cf1e5339e798816b2",
+        "android_client_info": {
+          "package_name": "com.suman.ocrhere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442368062775-rq0sklqu1kv2jl92rdt5hhaj6n4jf2a8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suman.ocrhere",
+            "certificate_hash": "35964b350b4c1c06279e694426a3ff176747ae15"
+          }
+        },
+        {
+          "client_id": "442368062775-kjndrefgv0b01qk6l2ij8c2vnd4gdmtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoiMyWyNS_ShCyS5o13b75Gn56b5dUdHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442368062775-kjndrefgv0b01qk6l2ij8c2vnd4gdmtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

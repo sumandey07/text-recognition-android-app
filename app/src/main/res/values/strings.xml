@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OCRHere</string>
+    <string name="welcome">Welcome to the New Advanced OCR App</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="app_image">App-Image</string>
+    <string name="snap">Snap</string>
+    <string name="detect_text">Detect Text</string>
+    <string name="captured_image_caption">Your captured image will appear above and text detected from image will be shown here</string>
+    <string name="selected_image_caption">Your selected image will appear above and text detected from image will be shown here</string>
+    <string name="image_container">image conatiner</string>
+    <string name="choose">Select an Image</string>
+    <string name="choose_an_image">Choose an Image</string>
+    <string name="select_an_image">Select Image</string>
+    <string name="image_viewer">image viewer</string>
+    <string name="copy">Copy</string>
+    <string name="empty">No Text Detected</string>
+</resources>
